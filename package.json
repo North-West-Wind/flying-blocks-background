@@ -1,0 +1,16 @@
+{
+  "name": "flying-blocks-background",
+  "version": "1.0.0",
+  "description": "Flying blocks background for streaming.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "three": "^0.128.0"
+  }
+}
